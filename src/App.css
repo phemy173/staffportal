@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+#gslLogo {
+  width: 40px;
+}
+#ceo {
+  width: 50%;
+}
+p.fs-5 {
+  text-align:justify;
+}
+div.cta-text {
+  justify-items: center;
+}
+section.text-white {
+  /* justify-items: center; */
+}
