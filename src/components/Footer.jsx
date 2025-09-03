@@ -19,10 +19,10 @@ function Footer() {
                 </div>
                 <div className="col-sm-4">
                     <img src="../images/gsl-logo.png" alt="gsl-logo" className="img-fluid" style={{width:"3rem"}} />
-                    <p>&copy; 2025 Greensprings School. All rights reserved.</p>
+                    <p>2025 Greensprings School. <br/>All rights reserved.</p>
                 </div>
             </div>
-            <p>Our footer section will be here</p>
+            <p>&copy; GSL IT Dept.</p>
         </footer>
     )
 }

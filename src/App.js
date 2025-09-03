@@ -190,6 +190,79 @@ With appreciation,<br/>
 </div>
     </div>
   </div>
+
+
+
+
+
+<section className="pt-5">
+  <div className="row p-auto">
+    <div className="col-sm-3">
+      <div class="card" style={{width: "18rem"}}>
+  <img src="../images/football.jpg" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Inter-Campus Match</h5>
+    <p class="card-text">To Foster Camaraderie, Teamwork, and the Spirit of Friendly Competition among the staff...</p>
+    <a href="https://www.greenspringsschool.com" class="btn btn-primary">Read More...</a>
+    <p class="card-text"><small class="text-body-secondary">Posted on August 25, 2025 </small></p>
+  </div>
+</div>
+    </div>
+
+    <div className="col-sm-3">
+      <div class="card" style={{width: "18rem"}}>
+  <img src="../images/mrs-bankole.jpg" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">INSET 2025/2026</h5>
+    <p class="card-text">INSET Training for the 2025/2026 Academic Session to Hold from 1st to 4th of September...<br/></p>
+    <a href="http://m.greenspringsschool.com" class="btn btn-primary">Read More...</a>
+    <p class="card-text"><small class="text-body-secondary">Posted on August 23, 2025 </small></p>
+  </div>
+</div>
+    </div>
+
+    <div className="col-sm-3">
+      <div class="card" style={{width: "18rem"}}>
+  <img src="../images/hrlogo1.png" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Change of HMO</h5>
+    <p class="card-text">This is to notify the general staff of GSL that the window to change the HMO is yet opened...</p>
+    <a href="https://www.greenspringsschool.com" class="btn btn-primary">Read More...</a>
+    <p class="card-text"><small class="text-body-secondary">Posted on July 26, 2025 </small></p>
+  </div>
+</div>
+    </div>
+
+
+    <div className="col-sm-3">
+      <div class="card" style={{width: "18rem"}}>
+  <img src="../images/hrlogo1.png" class="card-img-top" alt="..."/>
+  <div class="card-body">
+    <h5 class="card-title">Another News</h5>
+    <p class="card-text">A brief synopsis of the news to futher explain the headline will be written here by the HR...</p>
+    <a href="https://support.greenspringsschool.com" class="btn btn-primary">Read More...</a>
+    <p class="card-text"><small class="text-body-secondary">Posted on August 26, 2025 </small></p>
+  </div>
+</div>
+    </div>
+  </div>
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </section>
 </section>
 <Announcement />

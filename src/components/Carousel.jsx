@@ -10,7 +10,7 @@ function Carousel() {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="images/10.jpg" class="d-block w-100" alt="..." />
+      <img src="images/10.jpg" class="d-block w-100 img-fluid" alt="..." />
       <div class="carousel-caption d-none d-md-block">
         <div class="bg-success">
         <h5 class="fs-4 text-white bg-success">Secondary Teachers</h5>
@@ -19,7 +19,7 @@ function Carousel() {
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="../images/11.jpg" class="d-block w-100" alt="..." />
+      <img src="../images/11.jpg" class="d-block w-100 img-fluid" alt="..." />
       <div class="carousel-caption d-none d-md-block">
         <div class="bg-success">
         <h5 class="fs-4 text-white bg-success">Mrs Bankole</h5>
@@ -28,7 +28,7 @@ function Carousel() {
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../images/12.jpg" class="d-block w-100" alt="..." />
+      <img src="../images/12.jpg" class="d-block w-100 img-fluid" alt="..." />
       <div class="carousel-caption d-none d-md-block">
         <div class="bg-success">
         <h5 class="fs-4 text-white ">Celebration at Lekki Campus</h5>
